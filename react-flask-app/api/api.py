@@ -8,10 +8,6 @@ import datetime
 # fingerprints to the blocks
 import hashlib
 
-# To store data
-# in our blockchain
-import JSON
-
 # Flask is for creating the web
 # app and jsonify is for
 # displaying the blockchain
